@@ -20,7 +20,7 @@ Visual Studio Code 插件
 
 ## 游戏作品
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tuxiaobei-scu&repo=Mario&show_owner=true&theme=catppuccin_latte)](https://github.com/tuxiaobei-scu/Mario) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=MineSweep&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/MineSweep)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteTuxiaobei&repo=Mario&show_owner=true&theme=catppuccin_latte)](https://github.com/ByteTuxiaobei/Mario) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=MineSweep&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/MineSweep)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=MineSweeper&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/MineSweeper) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=Minecraft-Redstone-Simulator&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/Minecraft-Redstone-Simulator)
 
