@@ -26,6 +26,10 @@ Visual Studio Code 插件
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=HuaRongRoad&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/HuaRongRoad) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=Nonogram&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/Nonogram)
 
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=Maze&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/Maze) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=SchulteGrid&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/SchulteGrid)
+
 ## 应用程序
 
 
