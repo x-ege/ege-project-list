@@ -10,7 +10,7 @@ Visual Studio Code 插件
 
 
 ## 基础示例
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=ege-samples&show_owner=true&theme=catppuccin_latte)](https://github.com/Easy-Graphics-Engine/ege-demo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=ege-samples&show_owner=true&theme=catppuccin_latte)](https://github.com/x-ege/ege-samples)
 
 
 ## UI 库
@@ -20,7 +20,7 @@ Visual Studio Code 插件
 
 ## 游戏作品
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteTuxiaobei&repo=Mario&show_owner=true&theme=catppuccin_latte)](https://github.com/ByteTuxiaobei/Mario) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=MineSweep&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/MineSweep)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteTuxiaobei&repo=Mario&show_owner=true&theme=catppuccin_latte)](https://github.com/ByteTuxiaobei/Mario) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=MineSweep&show_owner=true&theme=catppuccin_latte)](https://github.com/x-ege/MineSweep)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=MineSweeper&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/MineSweeper) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=Minecraft-Redstone-Simulator&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/Minecraft-Redstone-Simulator)
 
@@ -35,10 +35,10 @@ Visual Studio Code 插件
 
 ## 图形与动画
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=fireworks-flashing-night&show_owner=true&theme=catppuccin_latte)](https://github.com/Easy-Graphics-Engine/fireworks-flashing-night)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=fireworks-flashing-night&show_owner=true&theme=catppuccin_latte)](https://github.com/x-ege/fireworks-flashing-night)
 
 ## 演示项目
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=ege-opencv&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/ege-opencv) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=ege-openal&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/ege-openal)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=ege-face-decoration&show_owner=true&theme=catppuccin_latte)](https://github.com/x-ege/ege-face-decoration) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=ege-openal&show_owner=true&theme=catppuccin_latte)](https://github.com/x-ege/ege-openal)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=demo-snipping-tool&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/demo-snipping-tool)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=x-ege&repo=ege-snipping-tool&show_owner=true&theme=catppuccin_latte)](https://github.com/x-ege/ege-snipping-tool)
